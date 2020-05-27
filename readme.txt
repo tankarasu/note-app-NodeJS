@@ -1,0 +1,1 @@
+this is a simplist note app by Command Line Args in NodeJS
